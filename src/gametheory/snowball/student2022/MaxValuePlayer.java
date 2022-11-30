@@ -1,4 +1,4 @@
-package gametheory.snowball;
+package gametheory.snowball.student2022;
 
 import gametheory.snowball.Player;
 
@@ -25,7 +25,7 @@ class MaxValuePlayer implements Player {
     ArrayList<Integer> shotRoundsList = new ArrayList<Integer>(Arrays.asList(shotRounds));
 
     /**
-     * Constructor for the gametheory.snowball.MaxValuePlayer class
+     * Constructor for the gametheory.snowball.student2022.MaxValuePlayer class
      * It sets the initial values for the fields of the clas
      * This constructor just call the method reset() for the class
      */

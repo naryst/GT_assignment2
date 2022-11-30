@@ -1,3 +1,5 @@
+package gametheory.snowball.student2022;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 

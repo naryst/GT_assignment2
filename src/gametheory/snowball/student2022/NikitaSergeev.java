@@ -97,7 +97,7 @@ public class NikitaSergeev implements Player{
     }
 
     /**
-     * Constructor for the OpponentAgreementPlayer class
+     * Constructor for the gametheory.snowball.student2022.OpponentAgreementPlayer class
      * It sets the initial values for the fields of the class
      * This constructor just call the method reset() for the class
      */

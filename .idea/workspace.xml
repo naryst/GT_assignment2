@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01258c38-1025-4e8d-a460-20d795cd411a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GT_assignment2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BeatMaxPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlayerTestSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gametheory/snowball/MaxValuePlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BeatMaxPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gametheory/snowball/student2022/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OpponentAgreementPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gametheory/snowball/student2022/OpponentAgreementPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PlayerTestSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gametheory/snowball/student2022/PlayerTestSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SomeOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gametheory/snowball/student2022/Statistics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gametheory/snowball/student2022/NikitaSergeev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gametheory/snowball/student2022/NikitaSergeev.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,14 +47,14 @@
 }</component>
   <component name="RunManager" selected="Application.PlayerTestSystem">
     <configuration name="PlayerTestSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PlayerTestSystem" />
+      <option name="MAIN_CLASS_NAME" value="gametheory.snowball.student2022.PlayerTestSystem" />
       <module name="GT_assignment2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Statistics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Statistics" />
+      <option name="MAIN_CLASS_NAME" value="gametheory.snowball.student2022.Statistics" />
       <module name="GT_assignment2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -112,7 +110,7 @@
       <workItem from="1669488914559" duration="9305000" />
       <workItem from="1669637250326" duration="24077000" />
       <workItem from="1669718451473" duration="19699000" />
-      <workItem from="1669813018662" duration="5128000" />
+      <workItem from="1669813018662" duration="5464000" />
     </task>
     <servers />
   </component>

@@ -1,3 +1,5 @@
+package gametheory.snowball.student2022;
+
 import gametheory.snowball.Player;
 
 import java.util.ArrayList;
@@ -96,7 +98,7 @@ public class OpponentAgreementPlayer implements Player {
     }
 
     /**
-     * Constructor for the OpponentAgreementPlayer class
+     * Constructor for the gametheory.snowball.student2022.OpponentAgreementPlayer class
      * It sets the initial values for the fields of the class
      * This constructor just call the method reset() for the class
      */

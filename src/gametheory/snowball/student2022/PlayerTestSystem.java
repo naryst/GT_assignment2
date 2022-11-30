@@ -1,5 +1,6 @@
+package gametheory.snowball.student2022;
+
 import gametheory.snowball.Player;
-import gametheory.snowball.student2022.NikitaSergeev;
 
 import java.util.ArrayList;
 

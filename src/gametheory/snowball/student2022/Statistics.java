@@ -1,4 +1,7 @@
-import gametheory.snowball.Player;
+package gametheory.snowball.student2022;
+
+import gametheory.snowball.student2022.OpponentAgreementPlayer;
+import gametheory.snowball.student2022.PlayerTestSystem;
 
 import java.nio.file.Files;
 import java.nio.file.Path;

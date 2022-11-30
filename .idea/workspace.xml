@@ -61,7 +61,7 @@
       </method>
     </configuration>
     <configuration name="Strategy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gametheory.snowball.Strategy" />
+      <option name="MAIN_CLASS_NAME" value="gametheory.snowball.student2022.Strategy" />
       <module name="GT_assignment2" />
       <method v="2">
         <option name="Make" enabled="true" />

@@ -8,7 +8,7 @@ import java.util.ArrayList;
 /**
  * Class for simulating the game between two players.
  */
-public class PlayerTestSystem {
+public class NikitaSergeevTest {
     ArrayList<Integer> firstPlayerOpponentShots;
     ArrayList<Integer> secondPlayerOpponentShots;
     ArrayList<Integer> firstPlayerLavaShots;
@@ -16,7 +16,7 @@ public class PlayerTestSystem {
     ArrayList<Integer> firstPlayerBallsRemaining;
     ArrayList<Integer> secondPlayerBallsRemaining;
 
-    public PlayerTestSystem() {
+    public NikitaSergeevTest() {
         this.firstPlayerOpponentShots = new ArrayList<>();
         this.secondPlayerOpponentShots = new ArrayList<>();
         this.firstPlayerLavaShots = new ArrayList<>();
@@ -138,8 +138,8 @@ public class PlayerTestSystem {
 
     public static void main(String[] args) {
         OpponentAgreementPlayer firstPlayer = new OpponentAgreementPlayer();
-        NikitaSergeev secondPlayer = new NikitaSergeev();
-        PlayerTestSystem testSystem = new PlayerTestSystem();
+        NikitaSergeevCode secondPlayer = new NikitaSergeevCode();
+        NikitaSergeevTest testSystem = new NikitaSergeevTest();
         System.out.println(testSystem.GameSimulation(firstPlayer, secondPlayer, 60));
     }
 }

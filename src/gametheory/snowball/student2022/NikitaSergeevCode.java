@@ -11,7 +11,7 @@ import java.util.ArrayList;
  * Then, if opponent shoot to the hot field, it shoots to the hot field with maximized strategy.
  * And if opponent shoot to his field, it shoots to the opponent field with maximized strategy.
  */
-public class NikitaSergeev implements Player{
+public class NikitaSergeevCode implements Player{
 
     // some Class fields needed for determining the strategy
     int snowballNumber;
@@ -101,7 +101,7 @@ public class NikitaSergeev implements Player{
      * It sets the initial values for the fields of the class
      * This constructor just call the method reset() for the class
      */
-    public NikitaSergeev(){
+    public NikitaSergeevCode(){
         this.reset();
     }
 

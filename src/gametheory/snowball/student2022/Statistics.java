@@ -1,8 +1,5 @@
 package gametheory.snowball.student2022;
 
-import gametheory.snowball.student2022.OpponentAgreementPlayer;
-import gametheory.snowball.student2022.PlayerTestSystem;
-
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -13,7 +10,7 @@ public class Statistics {
         OpponentAgreementPlayer p1 = new OpponentAgreementPlayer();
         OpponentAgreementPlayer p2 = new OpponentAgreementPlayer();
 
-        PlayerTestSystem testSystem = new PlayerTestSystem();
+        NikitaSergeevTest testSystem = new NikitaSergeevTest();
         int numOfRounds = 60;
         int numOfBalls = 100;
         int numOfTests = 1;
